@@ -1,1 +1,1 @@
-web: beans_cherries.wsgi
+web: beans-and-cherries.wsgi
