@@ -1,1 +1,1 @@
-web: gunicorn beans-and-cherries.wsgi
+web: gunicorn beans_cherries.wsgi
