@@ -1,0 +1,1 @@
+web: beans_cherries.wsgi
